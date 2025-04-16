@@ -1,0 +1,5 @@
+Wed Apr 02 11:43:04 2025 - Rut tien: 1000000 VND
+Wed Apr 02 11:43:34 2025 - Chuyen khoan: 1000000 VND den 1000000 - Vietinbank - Noi dung: hihi
+Wed Apr 02 15:21:18 2025 - Rut tien: 1.000.000 VND
+Wed Apr 02 15:21:48 2025 - Chuyen khoan: 1.000.000 VND den 0385082208 - Techcombank - Noi dung: chuyen khoan thanh cong
+Wed Apr 02 16:04:08 2025 - Chuyen khoan: 1.000.000 VND den 0332253 - MB Bank - Noi dung: hihi'
